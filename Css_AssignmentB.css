@@ -1,0 +1,62 @@
+body {
+  padding : 0.5em;
+  margin  : 0;
+  background : #bd9867;
+}
+form {
+  position : relative;
+  width  : 740px;
+  height : 498px;
+  margin : 0 auto;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+#inputfields{
+font-family: verdana;
+  font-size: 100%;
+color: red;
+font-weight: bold;
+
+}
+
+
+#radiobuttons{
+font-family: verdana;
+  font-size: 100%;
+
+}
+#checkbox{
+font-family: verdana;
+  font-size: 100%;
+
+}
+#dropdownList{
+font-family: verdana;
+  font-size: 100%;
+color:red;
+font-weight: bold;
+
+
+}
+#textarea{
+font-family: verdana;
+  font-size: 100%;
+
+}
+input, textarea{
+font-family: verdana;
+  font-size: 90%;
+
+}
+#fname, #password, #courses{
+border-color:red;
+}
+
+
+select{
+font-size: 90%;
+font-family: verdana;
+}
+
+
